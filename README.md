@@ -1,4 +1,4 @@
-#GO REACT CHAT
+### GO REACT CHAT
 
 prototype full stack project.
 
